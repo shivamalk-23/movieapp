@@ -14,9 +14,7 @@ const Navbar = () => {
           <img src={img} width="70px" />
           </Link>
         
-      <Link to="/Random/movieid">
       
-          </Link>
           <SearchBar/>
           
       </Stack>
