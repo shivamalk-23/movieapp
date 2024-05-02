@@ -6,8 +6,7 @@ import Feed from './components/Feed';
 import Navbar from './components/Navbar';
 import './assets/all.css'
 import SearchFeed from './components/SearchFeed';
-import RandomSearch from './components/RandomSearch';
-import Categories from './components/Categories';
+
 import MovieDetail from './components/MovieDetail';
 import Movie2Detail from './components/Movie2Detail';
 
