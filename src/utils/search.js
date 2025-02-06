@@ -10,7 +10,7 @@ const options = {
     output_language: 'en'
   },
   headers: {
-    'X-RapidAPI-Key': 'c7a232a1bdmshd13e1c66cbe4376p1a319bjsn47fb38b36bca',
+    'X-RapidAPI-Key': import.meta.env.VITE_REACT_APP_API_KEY,
     'X-RapidAPI-Host': 'streaming-availability.p.rapidapi.com'
   }
 };
